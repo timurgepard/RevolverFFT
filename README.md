@@ -2,7 +2,7 @@
 
 This is unfinished project called RevolverFFT.
 
-One needs to add knowledge distallation. (Glimps of it was done in 2 model training together SLM in LLM repository)
+One needs to add knowledge distallation. (Glimps of it was done in 2 model training together SLM in LLM repository: https://github.com/timurgepard/SLM_in_LLM)
 
 The main Model is PicoFFT, FeedForward Transofrmer without Self-Attention (due to triangular mask gradients are stored only for 1/2 of matrix)
 
