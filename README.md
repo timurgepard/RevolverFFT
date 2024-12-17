@@ -12,7 +12,7 @@ Vocabular/Embedding Layer: 1440
 
 Time Sequence: 1440
 
-Facets (heads): 10. Each facet is 144 lenght and normalized separately
+Facets (heads): 10. Each facet is 144 length and normalized separately
 
 Layer: 1
 
