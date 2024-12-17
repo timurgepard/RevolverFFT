@@ -9,6 +9,9 @@ The main Model is PicoFFT, FeedForward Transofrmer without Self-Attention (due t
 This version of PicoFFT was adjusted to work with RTX 3060 without depth.
 
 Vocabular/Embedding Layer: 1440
+
 Time Sequence: 1440
+
 Facets (heads): 10
+
 Layer: 1
